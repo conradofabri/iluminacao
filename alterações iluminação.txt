@@ -1,0 +1,10 @@
+Excluir atributos de LED das categorias de Plafon, Spot, Iluminação Comercial.
+
+Lâmpadas: Perguntar pro Edson sobre as lâmpadas normais
+
+Plafon, Spot e Iluminação Comercial: Temperatura de Cor é variante. Excluir pergunta Possui LED. 
+
+Colocar temperatura da cor para caixa de seleção.
+
+Excluir Número de Lâmpadas (checar edson)
+excluir modelo/tecnologia

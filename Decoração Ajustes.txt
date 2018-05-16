@@ -1,0 +1,24 @@
+Almofadas: Variação de Cor
+	   Variação de Tamanho
+	   Variação Altura x Largura x Comprimento
+		
+
+Material do Revestimento: Inserir Outro
+Tema da Estampa (olhar mais aprofundado): Oriental, Amadeirado	
+Material do Enchimento: Silicone
+
+Origem do Material do Enchimento: Excluir
+Fechamento: Excluir outro	
+Presponto: Pesponto
+
+Tipo de Almofada: Almofadas, Almofadas para Assento, Futon, Almofadas para Jardim
+Necessita Capa: excluir
+Formato: Caixa de Seleção 
+
+Capas para Almofada: Variação de Cor
+		     Variação de Tamanho
+
+
+Espelho: Variação de Tamanho
+Cor da Moldura
+Excluir Durabilidade

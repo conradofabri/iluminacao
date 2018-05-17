@@ -1,6 +1,6 @@
-Almofadas: Variação de Cor
-	   Variação de Tamanho
-	   Variação Altura x Largura x Comprimento
+Almofadas: VariaÃ§Ã£o de Cor
+	   VariaÃ§Ã£o de Tamanho
+	   VariaÃ§Ã£o Altura x Largura x Comprimento
 		
 
 Material do Revestimento: Inserir Outro
@@ -13,12 +13,14 @@ Presponto: Pesponto
 
 Tipo de Almofada: Almofadas, Almofadas para Assento, Futon, Almofadas para Jardim
 Necessita Capa: excluir
-Formato: Caixa de Seleção 
+Formato: Caixa de SeleÃ§Ã£o 
 
-Capas para Almofada: Variação de Cor
-		     Variação de Tamanho
+Capas para Almofada: VariaÃ§Ã£o de Cor
+		     VariaÃ§Ã£o de Tamanho
 
 
-Espelho: Variação de Tamanho
+Espelho: VariaÃ§Ã£o de Tamanho
 Cor da Moldura
 Excluir Durabilidade
+
+fazer a luz surgir
